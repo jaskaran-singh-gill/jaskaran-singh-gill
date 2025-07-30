@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaskaran-singh-gill&label=Profile%20views&color=0e75b6&style=flat" alt="jaskaran-singh-gill" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jaskaran137dev" target="blank"><img src="https://img.shields.io/twitter/follow/jaskaran137dev?logo=twitter&style=for-the-badge" alt="jaskaran137dev" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/jaskaran-singh-gill/" target="blank"><img src="https://img.shields.io/twitter/follow/jaskaran137dev?logo=twitter&style=for-the-badge" alt="jaskaran137dev" /></a> </p>
 
 - 🔭 I’m currently working on **Scan Food Menu App**
 
